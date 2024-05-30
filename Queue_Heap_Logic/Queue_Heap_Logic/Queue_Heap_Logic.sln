@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue_Heap_Logic", "Veri_Yapılari_Odev\Queue_Heap_Logic.csproj", "{B528412C-1F4D-4CF9-B3F9-6F454F1A9984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B528412C-1F4D-4CF9-B3F9-6F454F1A9984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B528412C-1F4D-4CF9-B3F9-6F454F1A9984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B528412C-1F4D-4CF9-B3F9-6F454F1A9984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B528412C-1F4D-4CF9-B3F9-6F454F1A9984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D9D8FFF-02D7-4CE7-9852-39BF6B3F9696}
+	EndGlobalSection
+EndGlobal

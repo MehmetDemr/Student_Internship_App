@@ -1,0 +1,16 @@
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\bin\Debug\net6.0-windows\Queue_Heap_Logic.exe
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\bin\Debug\net6.0-windows\Queue_Heap_Logic.deps.json
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\bin\Debug\net6.0-windows\Queue_Heap_Logic.runtimeconfig.json
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\bin\Debug\net6.0-windows\Queue_Heap_Logic.dll
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\bin\Debug\net6.0-windows\Queue_Heap_Logic.pdb
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\obj\Debug\net6.0-windows\Veri_Yapılari_Odev.Form1.resources
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\obj\Debug\net6.0-windows\Queue_Heap_Logic.csproj.GenerateResource.cache
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\obj\Debug\net6.0-windows\Queue_Heap_Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\obj\Debug\net6.0-windows\Queue_Heap_Logic.AssemblyInfoInputs.cache
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\obj\Debug\net6.0-windows\Queue_Heap_Logic.AssemblyInfo.cs
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\obj\Debug\net6.0-windows\Queue_Heap_Logic.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\obj\Debug\net6.0-windows\Queue_Heap_Logic.dll
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\obj\Debug\net6.0-windows\refint\Queue_Heap_Logic.dll
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\obj\Debug\net6.0-windows\Queue_Heap_Logic.pdb
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\obj\Debug\net6.0-windows\Queue_Heap_Logic.genruntimeconfig.cache
+C:\Users\Mehmet Demir\Desktop\Veri_Yapılari_Odev\Veri_Yapılari_Odev\Veri_Yapılari_Odev\obj\Debug\net6.0-windows\ref\Queue_Heap_Logic.dll
